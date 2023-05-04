@@ -56,22 +56,22 @@ export default function Footer() {
 							<h6 className="text-uppercase fw-bold mb-4">Products</h6>
 							<p>
 								<a href="#!" className="text-reset">
-									Angular
+									System Audit
 								</a>
 							</p>
 							<p>
 								<a href="#!" className="text-reset">
-									React
+									Risk Assessment
 								</a>
 							</p>
 							<p>
 								<a href="#!" className="text-reset">
-									Vue
+									System Infiltration
 								</a>
 							</p>
 							<p>
 								<a href="#!" className="text-reset">
-									Laravel
+									GRCS
 								</a>
 							</p>
 						</MDBCol>
@@ -125,7 +125,7 @@ export default function Footer() {
 				className="text-center p-4"
 				style={{ backgroundColor: "rgba(0, 0, 0, 0.05)" }}>
 				© 2021 Copyright:
-				<a className="text-reset fw-bold" href="https://mdbootstrap.com/">
+				<a className="text-reset fw-bold" href="#">
 					nuk9.com
 				</a>
 			</div>
