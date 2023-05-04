@@ -2,8 +2,7 @@ import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 import "./Banner.css";
 
-import "bootstrap/dist/css/bootstrap.css";
-import "react-bootstrap-carousel/dist/react-bootstrap-carousel.css";
+// import "bootstrap/dist/css/bootstrap.css";
 import banner1 from "../../../assets/284930_0671922647284e56adc03ee0453a55f9.jpg";
 import banner2 from "../../../assets/284930_c7474aa337a04916a21d5fd3e65d6575.jpg";
 import banner3 from "../../../assets/slider2.jpg";
