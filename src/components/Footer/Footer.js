@@ -43,7 +43,7 @@ export default function Footer() {
 						<MDBCol md="3" lg="4" xl="3" className="mx-auto mb-4">
 							<h6 className="text-uppercase fw-bold mb-4">
 								<MDBIcon icon="gem" className="me-3" />
-								Company name
+								NUK 9
 							</h6>
 							<p>
 								Here you can use rows and columns to organize your footer
@@ -104,7 +104,7 @@ export default function Footer() {
 							<h6 className="text-uppercase fw-bold mb-4">Contact</h6>
 							<p>
 								<MDBIcon icon="home" className="me-2" />
-								New York, NY 10012, US
+								Mumbai, India
 							</p>
 							<p>
 								<MDBIcon icon="envelope" className="me-3" />
@@ -126,7 +126,7 @@ export default function Footer() {
 				style={{ backgroundColor: "rgba(0, 0, 0, 0.05)" }}>
 				© 2021 Copyright:
 				<a className="text-reset fw-bold" href="https://mdbootstrap.com/">
-					MDBootstrap.com
+					nuk9.com
 				</a>
 			</div>
 		</MDBFooter>
